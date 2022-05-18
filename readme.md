@@ -1,5 +1,5 @@
 # 練習2
-請fork老師的110-2PC1倉庫，其網址為<https://github.com/altoliaw3/110-2PC1>，並從伺服器自己帳號下相同倉庫名進行clone於自己專案資料集中，clone完後，請利用Markdown語法進行編輯Event.md檔案。
+請fork老師的110-2PC2倉庫，其網址為<https://github.com/altoliaw3/110-2PC2>，並從伺服器自己帳號下相同倉庫名進行clone於自己專案資料集中，clone完後，請利用Markdown語法進行編輯Event.md檔案。
 
 ## 大綱敘述
 請參照亞東醫院掛號系統<https://www.femh.org.tw/webregs/fregister>，並承練習1之所做，請隨意選擇一科，進行網路掛號，由於該掛號有初診與復診掛號模式兩種不同的填寫。請研究後該兩個初診與復診掛號頁面過後，請假設為該醫院的設計之系統分析師，撰寫練習1中事件表並將其轉為「使用案例」。
